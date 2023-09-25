@@ -1,0 +1,31 @@
+header {
+    background-color: #131921;
+    color: #fff;
+    padding: 10px 14px;
+}
+
+.classH1Form {
+    justify-content: space-between;
+    display: flex;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+}
+
+header input {
+    width: 300px;
+    height: 35px;
+    border-radius: 6px;
+}
+
+.search-button {
+    background-color: #ff9900;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
